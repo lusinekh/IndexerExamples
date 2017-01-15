@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2013 for Windows Desktop
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "testvec", "vectors\testvec.csproj", "{95CA6311-1202-45EE-A56A-CECB65AA2B11}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "vec", "vec\vec.csproj", "{5A678F8D-8DF3-42AB-9872-FC0EB7D6A58A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "vector", "vector\vector.csproj", "{EAC8B99A-69C8-438F-B488-2AC586F277B9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{95CA6311-1202-45EE-A56A-CECB65AA2B11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95CA6311-1202-45EE-A56A-CECB65AA2B11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95CA6311-1202-45EE-A56A-CECB65AA2B11}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95CA6311-1202-45EE-A56A-CECB65AA2B11}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5A678F8D-8DF3-42AB-9872-FC0EB7D6A58A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A678F8D-8DF3-42AB-9872-FC0EB7D6A58A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A678F8D-8DF3-42AB-9872-FC0EB7D6A58A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A678F8D-8DF3-42AB-9872-FC0EB7D6A58A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EAC8B99A-69C8-438F-B488-2AC586F277B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAC8B99A-69C8-438F-B488-2AC586F277B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAC8B99A-69C8-438F-B488-2AC586F277B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAC8B99A-69C8-438F-B488-2AC586F277B9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
