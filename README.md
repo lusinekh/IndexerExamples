@@ -1,4 +1,4 @@
-                                           fibonacci . Example of using indexer
+ # fibonacci . Example of using indexer
 
 
 
@@ -21,9 +21,9 @@ Console.WriteLine("f5="+f[5]);
 }
 }
 }
-  
+  ```
         
-        ```
+       
 The result in Console window shown in bellow. 
 
 f4=3
