@@ -12,8 +12,9 @@ namespace Testfibonaci
         static void Main(string[] args)
         {
             fib f = new fib();
-            Console.WriteLine(f[4]);
-            Console.WriteLine(f[6]);
+            Console.WriteLine("f4="+f[4]);
+            Console.WriteLine("f5="+f[5]);
+            
         }
     }
 }
