@@ -9,31 +9,7 @@ namespace Fibonachi
     public class fib
     {
 
-        /*
-        private int last = 0;
-        private int next = 1;
-        */
-        /*
-        private  int next = 0;
-	    private  int last = 1;
-
-
-        /*
-        private int fib1(int k)
-        {
-            int fib1 = 0;
-            for (int i = 1; i <= k; i++)
-            {
-                fib1 = last + next;
-                last = next;
-                next = fib1;
-
-            }
-            return fib1;
-        }
-        */
-
-
+       
         public int fib1(int n)
         {
             int firstnumber = 0, secondnumber = 1, result = 0;  
