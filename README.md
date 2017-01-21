@@ -1,4 +1,4 @@
- # fibonacci . Example of using indexer
+# Fibonachi. Example of using indexer
 
 
    Programme consists of Fibonacci class library: here is determines Fib1 function, which count imported number"s fibonacci.
