@@ -5,9 +5,9 @@
         There is determine an indexer for Fibonacci function in clas.
         
           
-        
-        
-        ```c#
+
+
+```C#
 namespace Testfibonaci
 {
 class Program
@@ -21,7 +21,7 @@ Console.WriteLine("f5="+f[5]);
 }
 }
 }
-  ```
+```
         
        
 The result in Console window shown in bellow. 
