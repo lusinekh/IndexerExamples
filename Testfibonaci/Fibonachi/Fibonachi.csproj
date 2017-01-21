@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{19BC5985-57FC-4263-BC0E-A096EB0AC095}</ProjectGuid>
+    <ProjectGuid>{690BF07D-EF1D-49DC-83D5-C71939618481}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>rectangle</RootNamespace>
-    <AssemblyName>rectangle</AssemblyName>
+    <RootNamespace>Fibonachi</RootNamespace>
+    <AssemblyName>Fibonachi</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
@@ -39,14 +39,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="rectangle1.cs" />
+    <Compile Include="fib.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-  </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="..\Point\Point.csproj">
-      <Project>{8faeaa99-9163-410b-8c68-63c7267e383f}</Project>
-      <Name>Point</Name>
-    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
