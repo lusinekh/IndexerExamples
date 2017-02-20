@@ -1,7 +1,7 @@
 # Fibonachi. Example of using indexer
 
 
-   Programme consists of Fibonacci class library: here is determines Fib1 function, which count imported number"s fibonacci.
+   Programme consists of Fibonacci class library: here is determines Fib1  function, which count imported number"s fibonacci.
         There is determine an indexer for Fibonacci function in clas.
         
           
